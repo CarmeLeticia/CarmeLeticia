@@ -10,6 +10,7 @@
 
 ######  Sou formada em Design Gráfico e em processo de transição de carreira, estudante de front-end e UI/UX Design 
 
+<br>
 
   <a href="https://github.com/CarmeLeticia">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carmeleticia&show_icons=true&theme=synthwave&include_all_commits=true&count_private=true"/>
@@ -51,7 +52,9 @@
  <img align="center" alt="Carme-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
  <img align="center" alt="Carme-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
-  
+ <br>
+ <br>
+
 
 
 
