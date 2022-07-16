@@ -3,6 +3,10 @@
 <div align="center">
 
 ### Bem vindo ao meu perfil GitHub 👋
+  
+  <a href="https://www.linkedin.com/in/carme-fernandes-30997928/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  
+   <img align="center" alt="Carme-HTML" height="300" width="300" src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/12cbe8a4-f55c-4b40-85bb-d8e1405e7b84/deq61tl-e3fdc081-e846-4324-b4f0-b400e8881df9.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzEyY2JlOGE0LWY1NWMtNGI0MC04NWJiLWQ4ZTE0MDVlN2I4NFwvZGVxNjF0bC1lM2ZkYzA4MS1lODQ2LTQzMjQtYjRmMC1iNDAwZTg4ODFkZjkuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.kMT5bD4NQ1RszoE7f6_2iEoGNYBFQF4MrsTYgE-TB4k">
 
 ######  Sou formada em Design Gráfico e em processo de transição de carreira, estudante de front-end e UI/UX Design 
 
@@ -38,17 +42,17 @@
   <img align="center" alt="Carme-vscode" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   </div>
  <br>
+ <br>
+ <br>
  
   :purple_heart: ### Estou aprendendo: 
  
  <div align="center">
- 
  <img align="center" alt="Carme-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
- 
-  
-   <img align="center" alt="Carme-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="Carme-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
   </div>
   
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
+
+
+
   
