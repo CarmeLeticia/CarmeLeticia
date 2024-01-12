@@ -49,8 +49,9 @@
   :purple_heart: ### Estou aprendendo: 
  
  <div align="center">
- <img align="center" alt="Carme-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg">
- <img align="center" alt="Carme-react" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg">
+ <img align="center" alt="Carme-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>
+ <img align="center" alt="Carme-python" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+    <img align="center" alt="Carme-c" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg"/>
   </div>
  <br>
  <br>
